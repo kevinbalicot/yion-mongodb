@@ -1,0 +1,14 @@
+{
+  "name": "yion-mongodb",
+  "version": "1.0.0",
+  "description": "Yion MongoDB plugin for Yion framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Balicot <kevinbalicot@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
